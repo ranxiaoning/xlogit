@@ -1,0 +1,6 @@
+numpy>=1.18.0
+scipy>=1.4.0
+pandas>=1.0.0
+jax>=0.3.0
+jaxlib>=0.3.0
+optax>=0.1.0
